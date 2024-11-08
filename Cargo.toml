@@ -1,0 +1,8 @@
+[package]
+name = "semi_diode_params"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+physical_constants = "0.5.0"
+plotters = "0.3.7"
